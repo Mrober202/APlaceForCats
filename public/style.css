@@ -1,0 +1,29 @@
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.red-quote{
+  color: red;
+}
+
+body {
+  justify-content: flex-end;
+  background-color: #EE5622;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  color: #F1BF65;
+}
+
+h1{
+  border: 25px;
+  color: #31263E;
+}
+
+img { 
+  border-radius: 50px;
+   border:10px solid #31263E;
+}
+
+ul {
+  list-style-type: none; 
+}
